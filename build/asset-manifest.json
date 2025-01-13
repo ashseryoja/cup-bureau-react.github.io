@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/cub-bureau-react/static/css/main.6ba71363.css",
+    "main.js": "/cub-bureau-react/static/js/main.39bb8dca.js",
+    "index.html": "/cub-bureau-react/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6ba71363.css",
+    "static/js/main.39bb8dca.js"
+  ]
+}
